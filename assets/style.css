@@ -6,6 +6,10 @@
     background-color: red;
     color: white;
 }
+.purple button {
+  background-color: purple; 
+  color: white;
+}
 .dark .toggle{
     background-color: #222;
 }
